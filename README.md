@@ -1,4 +1,4 @@
 # ISP-code-files
 This repository contains my (raw)work for ISP1.
 
-Past few commits were not visible on my profile due to some inconsistency in my Git Email Configuration. This is just a test.
+Some commits were not visible on my profile due to some inconsistency in my Git Email Configuration. (Test passed, now I can work normally on this repo)
